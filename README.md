@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Atique
+- 👀 I’m interested in backend development with C#
+- 🌱 I’m currently learning Advanced Azure Microservices with .NET for Developers
+- 💞️ I’m looking to collaborate on ASP.NET 6
+- 📫 How to reach me ...
